@@ -1,9 +1,10 @@
+import Canvas from "./Canvas";
 
 function App() {
 
   return (
     <div className="app">
-      test
+      <Canvas />
     </div>
   );
 
